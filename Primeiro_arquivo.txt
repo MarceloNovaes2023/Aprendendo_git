@@ -1,0 +1,1 @@
+eu aprendi que git gerencias  arquivos e ele é um controle de verssão distribuida  sendo assim  cada maquinha é um repositorio.
